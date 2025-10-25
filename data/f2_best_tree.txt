@@ -1,0 +1,1 @@
+Local_SIFT(Region_R(Image0, 115, 26, 43, 43))
