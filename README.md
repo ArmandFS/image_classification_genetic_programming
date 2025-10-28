@@ -1,6 +1,6 @@
 # Genetic Programming for Image Classification
 
-A university project implementing **Genetic Programming (GP)** for automated feature extraction in computer vision and image classification tasks. This project demonstrates how evolutionary computation can be used to discover optimal feature extraction strategies for image classification problems.
+A university project (AIML426) implementing **Genetic Programming (GP)** for automated feature extraction in computer vision and image classification tasks. This project demonstrates how evolutionary computation can be used to discover optimal feature extraction strategies for image classification problems.
 
 ## 🎯 Project Overview
 
